@@ -1,0 +1,28 @@
+.body {
+  background-color: darkgrey;
+  margin : 0px;
+}
+
+.top-box {
+  background-color : rgb(52, 51, 56);
+  height: 10vh;
+  z-index: 1;
+}
+
+.mid-box {
+  background-color : white;
+  height : 80vh;
+  width : 70vw;
+  margin-left : 15vw;
+  z-index: 2;
+}
+
+.lower-box {
+  background-color : black;
+  height : 10vh;
+  width : 70vw;
+  margin-left : 15vw;
+  z-index: 3;
+
+}
+
